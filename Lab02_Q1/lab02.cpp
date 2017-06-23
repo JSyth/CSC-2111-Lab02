@@ -1,5 +1,5 @@
 // Assignment: Lab 2 Question 2
-// Authout: Joshua Forsyth
+// Author: Joshua Forsyth
 
 #include <iostream>
 
